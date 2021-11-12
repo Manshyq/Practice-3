@@ -1,5 +1,5 @@
 # Practice-3
-made by Abubakirova Manshuk and Nuranov Atazhan
+made by Abubakirova Manshuk and Nuranov Atazhan.
 For creating this  wave I have used only HTML and CSS.
 
 - In HTML I created a section with four divs for each wave
