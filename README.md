@@ -1,8 +1,9 @@
 # Practice-3
-For creating this wave I have used only HTML and CSS.
+made by Abubakirova Manshuk and Nuranov Atazhan
+For creating this  wave I have used only HTML and CSS.
 
 - In HTML I created a section with four divs for each wave
-- Each wave has a subclass such as wave1, wave2, wave3,wave
+- Each wave has a subclass such as wave1, wave2, wave3, wave4
 - For waves I used a link:
 
 ```css
